@@ -32,3 +32,15 @@ This project involves creating a comprehensive Calculator app designed to perfor
    - **Constraint Layout:** The app uses a constraint layout to ensure buttons and display elements are well-organized and easy to access.
 
 This project demonstrates the development of a functional and user-friendly calculator app that can handle a wide range of mathematical operations. The emphasis is on providing a reliable tool for calculations, whether they are simple arithmetic tasks or complex scientific computations.
+
+
+![1](https://github.com/Riya1802Lodha/Calculator/assets/143609033/975ad437-759e-4e46-9d10-0edf5c233e18)
+![2](https://github.com/Riya1802Lodha/Calculator/assets/143609033/1d897b2d-eff0-467e-af4c-8d7914f459d9)
+![3](https://github.com/Riya1802Lodha/Calculator/assets/143609033/f5c95c8f-4092-4454-b975-e9ea8d03708c)
+
+https://github.com/Riya1802Lodha/Calculator/assets/143609033/463a458d-5e5b-4b66-95f0-320ac29af1b2
+
+![landscape1](https://github.com/Riya1802Lodha/Calculator/assets/143609033/8f93e5bf-f209-4f2d-a364-51af721a5606)
+![landscape2](https://github.com/Riya1802Lodha/Calculator/assets/143609033/2cbf7a9a-ce8b-4326-9c86-8a6cd3de4e34)
+
+
