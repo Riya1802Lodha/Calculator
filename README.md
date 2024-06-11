@@ -33,6 +33,7 @@ This project involves creating a comprehensive Calculator app designed to perfor
 
 This project demonstrates the development of a functional and user-friendly calculator app that can handle a wide range of mathematical operations. The emphasis is on providing a reliable tool for calculations, whether they are simple arithmetic tasks or complex scientific computations.
 
+If you come across any known bugs, please let me know. I would greatly appreciate your feedback. Feel free to share your thoughts, constructive criticism, or comments about my work. Contact me via email: 👉 riyalodha1802@gmail.com. Thank you!
 
 https://github.com/Riya1802Lodha/Calculator/assets/143609033/463a458d-5e5b-4b66-95f0-320ac29af1b2
 
